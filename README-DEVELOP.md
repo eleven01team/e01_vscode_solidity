@@ -41,7 +41,7 @@ Clone the repository:
 
 
 ```console
-$ git clone https://github.com/juanfranblanco/vscode-solidity
+$ git clone https://github.com/eleven01team/e01_vscode_solidity
 Cloning into 'vscode-solidity'...
 remote: Enumerating objects: 169, done.
 ...

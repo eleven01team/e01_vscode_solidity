@@ -19,12 +19,12 @@
     "Parag rahangdale"
   ],
   "bugs": {
-    "url": "https://github.com/juanfranblanco/vscode-solidity/issues"
+    "url": "https://github.com/eleven01team/e01_vscode_solidity/issues"
   },
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juanfranblanco/vscode-solidity"
+    "url": "https://github.com/eleven01team/e01_vscode_solidity"
   },
   "categories": [
     "Programming Languages",
