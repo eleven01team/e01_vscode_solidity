@@ -197,6 +197,8 @@ Ilya Drabenia for creating the Solhint linter and the integration into the exten
 
 Nexus team for the original creation of the dappfile to structure contracts in projects https://github.com/nexusdev/dapple.
 
+Beau Gunderson for contributing the initial integration of solium https://github.com/juanfranblanco/vscode-solidity/issues/24, the initial server and error mappings.
+
 
 Bram Hoven for starting the multiple package dependency support for different environments (node_modules, lib)
 
