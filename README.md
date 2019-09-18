@@ -185,9 +185,30 @@ To code generate the Nethereum contract for all smart contracts already compiled
 For ideas, issues, additions, modifications please raise an issue or a pull request at https://github.com/eleven01team/e01_vscode_solidity/
 and send a message on gitter at https://gitter.im/vscode-solidity/Lobby or https://gitter.im/Nethereum/Nethereum to get an instant notification.
 
+
+## Requirements:
+
+You will need the following installed in order to use the extension:
+
+=>VS Code Version 1.32 or greater
+
+=>Node v8.x or v10.x and npm v6.x or greater
+
+=>Docker version v17.06.2-ce or greater
+
+=>Docker Compose v1.14.0 or greater
+
+=>Go version v1.12 or greater for developing Go Contracts
+
+=>java v8 for developing java contracts
+
+
 # Credits
 
 Many thanks to:
+
+Juanfranblanco for the vscode extension https://github.com/juanfranblanco/vscode-solidity
+
 
 Christian Reitwiessner and the Ethereum team for Solidity https://github.com/ethereum/solidity
 
@@ -198,7 +219,6 @@ Ilya Drabenia for creating the Solhint linter and the integration into the exten
 Nexus team for the original creation of the dappfile to structure contracts in projects https://github.com/nexusdev/dapple.
 
 Beau Gunderson for contributing the initial integration of solium https://github.com/juanfranblanco/vscode-solidity/issues/24, the initial server and error mappings.
-
 
 Bram Hoven for starting the multiple package dependency support for different environments (node_modules, lib)
 
@@ -214,21 +234,5 @@ Sebastian Bürgel for keeping reminding me of the offline installation suppport
 
 David Krmpotic and Ralph Pichler for the original Sublime extension
 https://github.com/davidhq/SublimeEthereum
-
-Requirements:
-
-You will need the following installed in order to use the extension:
-
-=>VS Code Version 1.32 or greater
-
-=>Node v8.x or v10.x and npm v6.x or greater
-
-=>Docker version v17.06.2-ce or greater
-
-=>Docker Compose v1.14.0 or greater
-
-=>Go version v1.12 or greater for developing Go Contracts
-
-=>java v8 for developing java contracts
 
 Everyone for their support and feedback!
