@@ -1,6 +1,6 @@
 {
-  "name": "solidity",
-  "description": "Eleven01 Solidity Language for Visual Studio Code",
+  "name": "Solidity",
+  "description": "Eleven01 Solidity Language plugin for Visual Studio Code",
   "keywords": [
     "solidity",
     "eleven01",
@@ -11,7 +11,7 @@
     "solhint"
   ],
   "version": "0.0.58",
-  "publisher": "paragrahangdale",
+  "publisher": "Eleven01",
   "engines": {
     "vscode": "^1.38.0"
   },
