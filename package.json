@@ -53,7 +53,7 @@
     "test": "nyc --require ts-node/register --require source-map-support/register mocha test/**/*.spec.ts"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^3.4.0",
     "find-cache-dir": "^2.1.0",
     "fs-extra": "^4.0.3",
